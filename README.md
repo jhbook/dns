@@ -1,6 +1,6 @@
 # dns
 dns.bat
-修改dns，和自动获取dns dhcp脚本
+修改dns和自动获取dns dhcp脚本
 
 dns_config.txt
 
